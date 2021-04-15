@@ -1,0 +1,33 @@
+\babel@toc {english}{}
+\babel@toc {english}{}
+\babel@toc {czech}{}
+\babel@toc {english}{}
+\babel@toc {czech}{}
+\babel@toc {english}{}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {3.1}{\ignorespaces WebLogic server log entry pattern}}{7}{figure.3.1}%
+\contentsline {figure}{\numberline {3.2}{\ignorespaces WebLogic Server logging process}}{9}{figure.3.2}%
+\addvspace {10pt}
+\contentsline {figure}{\numberline {4.1}{\ignorespaces NLP Workflow}}{12}{figure.4.1}%
+\contentsline {figure}{\numberline {4.2}{\ignorespaces Term Frequency Vectorization}}{15}{figure.4.2}%
+\contentsline {figure}{\numberline {4.3}{\ignorespaces One-Hot Vectorization}}{15}{figure.4.3}%
+\contentsline {figure}{\numberline {4.4}{\ignorespaces Term Frequency - Inversed Document Frequency}}{16}{figure.4.4}%
+\contentsline {figure}{\numberline {4.5}{\ignorespaces Tokenization using uni-grams}}{18}{figure.4.5}%
+\contentsline {figure}{\numberline {4.6}{\ignorespaces Tokenization using bi-grams}}{19}{figure.4.6}%
+\contentsline {figure}{\numberline {4.7}{\ignorespaces Tokenization using tri-grams}}{19}{figure.4.7}%
+\contentsline {figure}{\numberline {4.8}{\ignorespaces Vectorization using bi-grams}}{19}{figure.4.8}%
+\contentsline {figure}{\numberline {4.9}{\ignorespaces Angle between two vectors \textbf {A} and \textbf {B}}}{20}{figure.4.9}%
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}
+\contentsline {figure}{\numberline {7.1}{\ignorespaces Clustered evaluation data set}}{29}{figure.7.1}%
+\contentsline {figure}{\numberline {7.2}{\ignorespaces Confusion matrix}}{31}{figure.7.2}%
+\contentsline {figure}{\numberline {7.3}{\ignorespaces Linguistic approach clustering}}{32}{figure.7.3}%
+\contentsline {figure}{\numberline {7.4}{\ignorespaces N-grams approach clustering}}{33}{figure.7.4}%
+\contentsline {figure}{\numberline {7.5}{\ignorespaces GSOM approach clustering}}{34}{figure.7.5}%
+\addvspace {10pt}
+\addvspace {10pt}
+\addvspace {10pt}

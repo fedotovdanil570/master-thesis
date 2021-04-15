@@ -1,0 +1,163 @@
+\begin{thebibliography}{10}
+\providecommand{\biburl}[1]{\url{#1}}
+\providecommand{\urlprefix}{Available from: }
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi:\discretionary{}{}{}#1}\else
+  \providecommand{\doi}{doi:\discretionary{}{}{}\begingroup
+  \urlstyle{rm}\Url}\fi
+\providecommand{\eprint}[2][]{\biburl{#2}}
+
+\bibitem{sematext}
+Log Analysis: A Complete Guide Covering from What It Is, Use Cases \& Best
+  Practices You Need to Know About {[online]}. {September} {2020}, [Cited
+  2021-03-28].
+\urlprefix\biburl{https://sematext.com/blog/log-analysis/}
+
+\bibitem{xplg-site}
+What is Log Analysis and Why Do You Need It? A comprehensive Guide {[online]}.
+  {February} {2020}, [Cited 2021-03-28].
+\urlprefix\biburl{https://www.xplg.com/what-is-log-analysis-and-why-do-you-need-it/}
+
+\bibitem{text-retrieval-definition}
+Huang, H.; Zhang, B. \emph{Text Indexing and Retrieval}. Boston: Springer,
+  2009.
+
+\bibitem{semi-structured-data-graylog}
+Turning Unstructured Data Into Structured Data With Log Management Tools.
+  {February} {2020}, [Cited 2021-03-30].
+\urlprefix\biburl{https://www.graylog.org/post/turning-unstructured-data-into-structured-data-with-log-management-tools}
+
+\bibitem{semi-structured-data-definition}
+\emph{Semistructured data}, {1997}, [Cited 2021-03-30].
+
+\bibitem{weblogic-log-structure}
+Understanding WebLogic Logging Services. {October} {2009}, [Cited 2021-03-30].
+\urlprefix\biburl{https://docs.oracle.com/cd/E13222_01/wls/docs92/logging/logging_services.html}
+
+\bibitem{vectorization}
+Text Vectorization and Transformation Pipelines - Applied Text Analysis with
+  Python [Book]. {April} {2021}, [Cited 2021-04-05].
+\urlprefix\biburl{https://www.oreilly.com/library/view/applied-text-analysis/9781491963036/ch04.html}
+
+\bibitem{bag-of-words}
+A Gentle Introduction to the Bag-of-Words Model. {August} {2019}, [Cited
+  2021-04-05].
+\urlprefix\biburl{https://machinelearningmastery.com/gentle-introduction-bag-words-model/}
+
+\bibitem{nlp-definition-tds}
+Your Guide to Natural Language Processing (NLP). {January} {2019}, [Cited
+  2021-04-05].
+\urlprefix\biburl{https://towardsdatascience.com/your-guide-to-natural-language-processing-nlp-48ea2511f6e1}
+
+\bibitem{nlp-definition-ibm}
+What is Natural Language Processing? | IBM. {July} {2020}, [Cited 2021-04-05].
+\urlprefix\biburl{https://www.ibm.com/cloud/learn/natural-language-processing}
+
+\bibitem{ner-wiki}
+Named-entity recognition. {April} {2021}, [Cited 2021-04-05].
+\urlprefix\biburl{https://en.wikipedia.org/wiki/Named-entity_recognition}
+
+\bibitem{coreference-stanford}
+Coreference Resolution. {April} {2021}, [Cited 2021-04-05].
+\urlprefix\biburl{https://nlp.stanford.edu/projects/coref.shtml}
+
+\bibitem{sentiment-analysis-def}
+Sentiment Analysis: Concept, Analysis and Applications. {January} {2018},
+  [Cited 2021-04-05].
+\urlprefix\biburl{https://towardsdatascience.com/sentiment-analysis-concept-analysis-and-applications-6c94d6f58c17}
+
+\bibitem{nltk-homepage}
+Natural Language Toolkit — NLTK 3.5 documentation. {April} {2020}, [Cited
+  2021-04-05].
+\urlprefix\biburl{https://www.nltk.org/}
+
+\bibitem{tokenization-def}
+Tokenization. {April} {2009}, [Cited 2021-04-09].
+\urlprefix\biburl{https://nlp.stanford.edu/IR-book/html/htmledition/tokenization-1.html}
+
+\bibitem{stemming-def}
+Stemming - Hands-On Natural Language Processing with Python [Book]. {April}
+  {2021}, [Cited 2021-04-10].
+\urlprefix\biburl{https://www.oreilly.com/library/view/hands-on-natural-language/9781789139495/76bf05a2-2da2-4378-9f6b-187e098e0ba9.xhtml}
+
+\bibitem{porter-stemming-alg}
+The Porter Stemming Algorithm. {January} {2006}, [Cited 2021-04-10].
+\urlprefix\biburl{https://tartarus.org/martin/PorterStemmer/index.html}
+
+\bibitem{snowball-porter-difference}
+Snowball Stemmer – NLP. {October} {2020}, [Cited 2021-04-10].
+\urlprefix\biburl{https://www.geeksforgeeks.org/snowball-stemmer-nlp/}
+
+\bibitem{stemming-and-lemmatization}
+Stemming and lemmatization. {July} {2009}, [Cited 2021-04-10].
+\urlprefix\biburl{https://nlp.stanford.edu/IR-book/html/htmledition/stemming-and-lemmatization-1.html}
+
+\bibitem{stemming-or-lemmatization}
+Stemming and Lemmatization in Python. {October} {2018}, [Cited 2021-04-10].
+\urlprefix\biburl{https://www.datacamp.com/community/tutorials/stemming-lemmatization-python}
+
+\bibitem{vsm-wiki-def}
+Vector space model. {August} {2020}, [Cited 2021-04-10].
+\urlprefix\biburl{https://en.wikipedia.org/wiki/Vector_space_model}
+
+\bibitem{oracle-ioexception}
+IOException (Java Platform SE 7 ). {June} {2020}, [Cited 2021-04-11].
+\urlprefix\biburl{https://docs.oracle.com/javase/7/docs/api/java/io/IOException.html}
+
+\bibitem{tf-idf-def}
+Tf-idf :: A Single-Page Tutorial - Information Retrieval and Text Mining.
+  {August} {2020}, [Cited 2021-04-11].
+\urlprefix\biburl{http://www.tfidf.com/}
+
+\bibitem{cos-similarity}
+Cosine Similarity – Understanding the math and how it works. {October}
+  {2018}, [Cited 2021-04-14].
+\urlprefix\biburl{https://www.machinelearningplus.com/nlp/cosine-similarity/}
+
+\bibitem{ml-use-cases}
+Machine learning use cases. {December} {2019}, [Cited 2021-04-15].
+\urlprefix\biburl{https://algorithmia.com/blog/machine-learning-use-cases}
+
+\bibitem{nn-basics}
+Basics of Neural Networks. {December} {2020}, [Cited 2021-04-15].
+\urlprefix\biburl{https://www.investopedia.com/terms/n/neuralnetwork.asp}
+
+\bibitem{ibm-supervised-learning}
+Supervised Learning. {August} {2020}, [Cited 2021-04-15].
+\urlprefix\biburl{https://www.ibm.com/cloud/learn/supervised-learning}
+
+\bibitem{backprop-description}
+Understanding Backpropagation Algorithm. {August} {2018}, [Cited 2021-04-15].
+\urlprefix\biburl{https://towardsdatascience.com/understanding-backpropagation-algorithm-7bb3aa2f95fd}
+
+\bibitem{ibm-ml}
+Machine Learning. {August} {2020}, [Cited 2021-04-15].
+\urlprefix\biburl{https://www.ibm.com/cloud/learn/machine-learning}
+
+\bibitem{ibm-unsupervised-learning}
+Unsupervised Learning. {September} {2020}, [Cited 2021-04-15].
+\urlprefix\biburl{https://www.ibm.com/cloud/learn/unsupervised-learning}
+
+\bibitem{kohonen}
+Self-organized formation of topologically correct feature maps.
+  \emph{Biological Cybernetics}, January 1982, [cit. 2021-04-15].
+\urlprefix\biburl{https://doi.org/10.1007/BF00337288}
+
+\bibitem{mi-mdw}
+Vitvar, T. Middleware Architectures 1. Lecture 4: Application Server
+  Architecture. {December} {2020}, [Cited 2021-04-12].
+\urlprefix\biburl{https://mdw.vitvar.com/}
+
+\bibitem{rand-index}
+Rand index. {January} {2021}, [Cited 2021-04-12].
+\urlprefix\biburl{https://en.wikipedia.org/wiki/Rand_index}
+
+\bibitem{quality-metrics}
+Clustering performance evaluation. {April} {2021}, [Cited 2021-04-12].
+\urlprefix\biburl{https://scikit-learn.org/stable/modules/clustering.html}
+
+\bibitem{adjusted-rand-index}
+Adjusted Rand Score. {April} {2021}, [Cited 2021-04-12].
+\urlprefix\biburl{https://scikit-learn.org/stable/modules/generated/sklearn.metrics.adjusted_rand_score.html}
+
+\end{thebibliography}

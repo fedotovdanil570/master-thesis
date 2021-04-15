@@ -1,0 +1,53 @@
+This is BibTeX, Version 0.99d (TeX Live 2020/W32TeX)
+Capacity: max_strings=200000, hash_size=200000, hash_prime=170003
+The top-level auxiliary file: DP_Fedotov_Daniil_2021.aux
+The style file: iso690.bst
+Database file #1: mybibliographyfile2.bib
+Warning--I didn't find a database entry for "n-grams-wiki"
+Reallocated wiz_functions (elt_size=4) to 6000 items from 3000.
+Warning--to sort, need author or key in kohonen
+Warning--empty chapter and pages in text-retrieval-definition
+Warning--empty pages in text-retrieval-definition
+Warning--empty author in kohonen
+You've used 35 entries,
+            3146 wiz_defined-function locations,
+            794 strings with 9879 characters,
+and the built_in function-call counts, 8951 in all, are:
+= -- 704
+> -- 54
+< -- 0
++ -- 45
+- -- 6
+* -- 409
+:= -- 692
+add.period$ -- 71
+call.type$ -- 35
+change.case$ -- 139
+chr.to.int$ -- 0
+cite$ -- 39
+duplicate$ -- 944
+empty$ -- 1072
+format.name$ -- 7
+if$ -- 2074
+int.to.chr$ -- 0
+int.to.str$ -- 35
+missing$ -- 222
+newline$ -- 147
+num.names$ -- 4
+pop$ -- 613
+preamble$ -- 1
+purify$ -- 105
+quote$ -- 0
+skip$ -- 353
+stack$ -- 0
+substring$ -- 245
+swap$ -- 464
+text.length$ -- 0
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 137
+warning$ -- 4
+while$ -- 4
+width$ -- 37
+write$ -- 289
+(There were 5 warnings)
